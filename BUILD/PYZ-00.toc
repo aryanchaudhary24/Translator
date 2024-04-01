@@ -1,0 +1,2322 @@
+('\\\\vmware-host\\Shared '
+ 'Folders\\Desktop\\Translator\\build\\TranslatorGUI\\PYZ-00.pyz',
+ [('multiprocessing.popen_spawn_posix',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('win32com',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\imp.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('win10toast',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win10toast\\__init__.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\fractions.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('playsound',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\playsound.py',
+   'PYMODULE'),
+  ('speech_recognition',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\speech_recognition\\__init__.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('pyaudio',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyaudio.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('aifc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\aifc.py',
+   'PYMODULE'),
+  ('chunk',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\chunk.py',
+   'PYMODULE'),
+  ('wave',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\wave.py',
+   'PYMODULE'),
+  ('gtts',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\__init__.py',
+   'PYMODULE'),
+  ('gtts.tts',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\tts.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('socks',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('gtts.lang',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\lang.py',
+   'PYMODULE'),
+  ('gtts.utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\utils.py',
+   'PYMODULE'),
+  ('gtts.tokenizer.symbols',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\tokenizer\\symbols.py',
+   'PYMODULE'),
+  ('gtts.tokenizer.tokenizer_cases',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\tokenizer\\tokenizer_cases.py',
+   'PYMODULE'),
+  ('gtts.tokenizer.pre_processors',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\tokenizer\\pre_processors.py',
+   'PYMODULE'),
+  ('gtts.tokenizer',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\tokenizer\\__init__.py',
+   'PYMODULE'),
+  ('gtts.tokenizer.core',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\tokenizer\\core.py',
+   'PYMODULE'),
+  ('gtts.version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\gtts\\version.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('googletrans',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\googletrans\\__init__.py',
+   'PYMODULE'),
+  ('googletrans.constants',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\googletrans\\constants.py',
+   'PYMODULE'),
+  ('googletrans.client',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\googletrans\\client.py',
+   'PYMODULE'),
+  ('googletrans.models',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\googletrans\\models.py',
+   'PYMODULE'),
+  ('googletrans.gtoken',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\googletrans\\gtoken.py',
+   'PYMODULE'),
+  ('httpx',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\__init__.py',
+   'PYMODULE'),
+  ('httpx._transports.wsgi',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx._transports',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx._utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_utils.py',
+   'PYMODULE'),
+  ('httpx._types',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_types.py',
+   'PYMODULE'),
+  ('httpx._content_streams',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_content_streams.py',
+   'PYMODULE'),
+  ('httpx._transports.urllib3',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_transports\\urllib3.py',
+   'PYMODULE'),
+  ('httpx._transports.asgi',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('sniffio',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\sniffio\\__init__.py',
+   'PYMODULE'),
+  ('sniffio._impl',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\sniffio\\_impl.py',
+   'PYMODULE'),
+  ('sniffio._version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\sniffio\\_version.py',
+   'PYMODULE'),
+  ('httpx._status_codes',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx._models',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_models.py',
+   'PYMODULE'),
+  ('httpx._decoders',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_decoders.py',
+   'PYMODULE'),
+  ('rfc3986',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\__init__.py',
+   'PYMODULE'),
+  ('rfc3986.parseresult',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\parseresult.py',
+   'PYMODULE'),
+  ('rfc3986.api',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\api.py',
+   'PYMODULE'),
+  ('rfc3986.iri',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\iri.py',
+   'PYMODULE'),
+  ('rfc3986.uri',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\uri.py',
+   'PYMODULE'),
+  ('rfc3986._mixin',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\_mixin.py',
+   'PYMODULE'),
+  ('rfc3986.validators',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\validators.py',
+   'PYMODULE'),
+  ('rfc3986.normalizers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\normalizers.py',
+   'PYMODULE'),
+  ('rfc3986.misc',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\misc.py',
+   'PYMODULE'),
+  ('rfc3986.abnf_regexp',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\abnf_regexp.py',
+   'PYMODULE'),
+  ('rfc3986.exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\exceptions.py',
+   'PYMODULE'),
+  ('rfc3986.compat',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\rfc3986\\compat.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\cgi.py',
+   'PYMODULE'),
+  ('httpx._exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx._config',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_config.py',
+   'PYMODULE'),
+  ('httpx._client',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_client.py',
+   'PYMODULE'),
+  ('hstspreload',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hstspreload\\__init__.py',
+   'PYMODULE'),
+  ('httpx._auth',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_auth.py',
+   'PYMODULE'),
+  ('httpx._api',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\_api.py',
+   'PYMODULE'),
+  ('httpx.__version__',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpx\\__version__.py',
+   'PYMODULE'),
+  ('httpcore',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.http_proxy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._sync',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore._sync.http11',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'PYMODULE'),
+  ('h11',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._version',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._util',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._state',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('httpcore._sync.http2',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'PYMODULE'),
+  ('h2.settings',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\settings.py',
+   'PYMODULE'),
+  ('h2',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\__init__.py',
+   'PYMODULE'),
+  ('h2.errors',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\errors.py',
+   'PYMODULE'),
+  ('hyperframe.frame',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hyperframe\\frame.py',
+   'PYMODULE'),
+  ('hyperframe',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hyperframe\\__init__.py',
+   'PYMODULE'),
+  ('hyperframe.flags',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hyperframe\\flags.py',
+   'PYMODULE'),
+  ('hyperframe.exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hyperframe\\exceptions.py',
+   'PYMODULE'),
+  ('h2.exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\exceptions.py',
+   'PYMODULE'),
+  ('h2.config',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\config.py',
+   'PYMODULE'),
+  ('h2.events',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\events.py',
+   'PYMODULE'),
+  ('h2.connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\connection.py',
+   'PYMODULE'),
+  ('h2.windows',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\windows.py',
+   'PYMODULE'),
+  ('h2.utilities',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\utilities.py',
+   'PYMODULE'),
+  ('hpack',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\__init__.py',
+   'PYMODULE'),
+  ('hpack.struct',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\struct.py',
+   'PYMODULE'),
+  ('h2.stream',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\stream.py',
+   'PYMODULE'),
+  ('h2.frame_buffer',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\h2\\frame_buffer.py',
+   'PYMODULE'),
+  ('hpack.exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\exceptions.py',
+   'PYMODULE'),
+  ('hpack.hpack',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\hpack.py',
+   'PYMODULE'),
+  ('hpack.huffman_table',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\huffman_table.py',
+   'PYMODULE'),
+  ('hpack.huffman_constants',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\huffman_constants.py',
+   'PYMODULE'),
+  ('hpack.huffman',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\huffman.py',
+   'PYMODULE'),
+  ('hpack.compat',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\compat.py',
+   'PYMODULE'),
+  ('hpack.table',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\hpack\\table.py',
+   'PYMODULE'),
+  ('httpcore._backends.auto',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore._backends',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.trio',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore._backends.asyncio',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_backends\\asyncio.py',
+   'PYMODULE'),
+  ('httpcore._backends.sync',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore._backends.base',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore._utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_utils.py',
+   'PYMODULE'),
+  ('httpcore._types',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_types.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection_pool',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._threadlock',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_threadlock.py',
+   'PYMODULE'),
+  ('httpcore._sync.base',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_sync\\base.py',
+   'PYMODULE'),
+  ('httpcore._exceptions',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore._async.http_proxy',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._async',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._async.connection',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore._async.http11',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore._async.http2',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore._async.connection_pool',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._async.base',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\httpcore\\_async\\base.py',
+   'PYMODULE'),
+  ('googletrans.utils',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\googletrans\\utils.py',
+   'PYMODULE'),
+  ('googletrans.urls',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\googletrans\\urls.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\aryan '
+   'chaudhary\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
