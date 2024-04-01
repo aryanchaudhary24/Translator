@@ -1,0 +1,36 @@
+Entered text in : english
+Text entered : Hi there
+Translated to Language: gujarati
+Entered text in : english
+Text entered : Bitch
+Translated to Language: italian
+Entered text in : english
+Text entered : Hello sir 
+Translated to Language: french
+Entered text in : english
+Text entered : Hey there 
+Translated to Language: french
+Entered text in : english
+Text entered : Hi aryan this side 
+Translated to Language: italian
+Entered text in : english
+Text entered : hello hello
+Hi aryan this side 
+Translated to Language: italian
+Entered text in : italian
+Text entered : bella ciao
+Translated to Language: english
+Entered text in : english
+Text entered : Hlw hitesh sir 
+Translated to Language: french
+Entered text in : english
+Text entered : Hospital
+Hlw hitesh sir 
+Translated to Language: french
+Entered text in : english
+Text entered : Hi i am aryan  
+Translated to Language: filipino
+Entered text in : english
+Text entered : we can we can say anything we want to translate hello hello
+Hi i am aryan  
+Translated to Language: filipino
