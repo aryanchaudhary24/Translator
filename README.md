@@ -22,16 +22,16 @@ This project is a simple yet powerful translator application with a Graphical Us
    ```sh
    git clone https://github.com/yourusername/translator-gui.git
 2. Navigate to the project directory:
+   ```sh
    cd translator-gui
 3. Install dependencies:
-sh
-Copy code
-pip install -r requirements.txt
-Usage
-Run the application:
-sh
-Copy code
-python src/main.py
-Enter the text you want to translate in the input box.
-Select the source and target languages from the dropdown menus.
-Click the "Translate" button to see the translated text.
+   ```sh
+   pip install -r requirements.txt
+4. Run the application:
+   ```sh
+   python src/main.py
+
+## Usage
+- **Enter the text you want to translate in the input box.
+- **Select the source and target languages from the dropdown menus.
+- **Click the "Translate" button to see the translated text.
